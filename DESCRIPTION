@@ -4,7 +4,7 @@ Title: Just testing
 Version: 2.0.0
 Date: 2020-02-07
 Author: Guilherme <guikinzel@gmail.com>
-Maintainer: Bill Engels <wrengels@wisc.edu>
+Maintainer: Guilherme <guikinzel@gmail.com>
 Description: tenhoeu
 VignetteBuilder: knitr
 Depends:
