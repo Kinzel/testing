@@ -6,17 +6,6 @@ Date: 2020-02-07
 Author: Guilherme <guikinzel@gmail.com>
 Maintainer: Guilherme <guikinzel@gmail.com>
 Description: tenhoeu
-VignetteBuilder: knitr
-Depends:
-    R (>= 2.14)
-Suggests:
-    ggplot2,
-    rmarkdown,
-    knitr,
-    RefManageR,
-    adegenet,
-    genetics,
-    parallel
 NeedsCompilation: yes
 License: GPL
 RoxygenNote: 7.0.2
