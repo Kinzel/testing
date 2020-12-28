@@ -44,4 +44,4 @@ pkgdown::build_site()
 # git push -u origin main
 
 
-devtools::install_github("Kinzel/mt5R")
+devtools::install_github("kinzel/")

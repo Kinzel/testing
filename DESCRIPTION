@@ -1,14 +1,22 @@
 Package: testing
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-Depends: data.table, xts
-License: What license is it under?
-Encoding: UTF-8
-LazyData: true
-Suggests: 
-    testthat
+Title: Just testing
+Version: 2.0.0
+Date: 2020-02-07
+Author: Guilherme <guikinzel@gmail.com>
+Maintainer: Bill Engels <wrengels@wisc.edu>
+Description: tenhoeu
+VignetteBuilder: knitr
+Depends:
+    R (>= 2.14)
+Suggests:
+    ggplot2,
+    rmarkdown,
+    knitr,
+    RefManageR,
+    adegenet,
+    genetics,
+    parallel
+NeedsCompilation: yes
+License: GPL
+RoxygenNote: 7.0.2
